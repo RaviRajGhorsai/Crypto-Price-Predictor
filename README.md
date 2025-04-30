@@ -7,4 +7,4 @@ In Jupyter notebook file i have downloaded past 10 years data using yfinance. Bu
 Using LSTM, we can say that it cannot predict an noisy data, since stock prices are noisy.
 Below is an image of predicted price using streamlit app:
 
-![prediction](images/BTC-predict.jpg)
+![prediction](images/BTC-predict.png)
